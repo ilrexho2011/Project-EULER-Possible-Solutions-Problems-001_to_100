@@ -1,5 +1,5 @@
 # Project-EULER-Possible-Solutions
-Solutions to project exercises in C++ language
+Solutions to project exercises in Assembler, C++, Java, Python or Javascript languages
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. 
 Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
