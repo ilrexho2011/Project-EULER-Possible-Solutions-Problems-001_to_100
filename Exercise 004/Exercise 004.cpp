@@ -1,6 +1,6 @@
 /*  -------------------------------------------------------
 	Produkti me i madh Palindromik i dy numrave 3 shifror
-    Nje numer palindromik lexohet njelloj nga te dyja anet. 
+        Nje numer palindromik lexohet njelloj nga te dyja anet. 
 	Numri me i madh palindrome i perftuar nga produkti 
 	i dy numrave 2-shifror eshte 9009 = 91 × 99.
 	Gjeni numrin me te madh palindrome qe perftohet nga 
