@@ -6,11 +6,12 @@
 //Have to find first triangle number with 500 divisors
 
 /*
-Stuff that might help:
+    Stuff that might help:
     Prime numbers have two factors
     Perfect squares have odd number of factors
     All other numbers have an even number of factors
-    Dividing a number by one of its factors will make it smaller while still allowing to find all factors
+    Dividing a number by one of its factors will make it 
+    smaller while still allowing to find all factors
     All numbers can be broken up by prime factorization
 */
 
