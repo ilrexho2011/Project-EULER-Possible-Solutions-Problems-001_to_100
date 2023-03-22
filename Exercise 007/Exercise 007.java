@@ -11,7 +11,7 @@ public final class p007 implements EulerSolution {
 	
 	
 	/* 
-	 * Computers are fast, so we can implement this solution by testing each number
+	 * Since Computers are fast, so we can implement this solution by testing each number
 	 * individually for primeness, instead of using the more efficient sieve of Eratosthenes.
 	 */
 	public String run() {
