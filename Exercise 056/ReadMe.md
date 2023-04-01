@@ -6,4 +6,4 @@ A googol (10100) is a massive number: one followed by one-hundred zeros; 100100 
 
 Considering natural numbers of the form, a^b, where a, b < 100, what is the maximum digital sum?
 
-Answer:  972
+Pergjigja e sakte:  972
