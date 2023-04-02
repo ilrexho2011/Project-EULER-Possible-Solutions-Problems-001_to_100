@@ -1,6 +1,6 @@
 # Project-EULER-Possible-Solutions
 
-As the official website of Project Euler allows, we have published only the possible solutions of the first 100 exercises...
+As the official website of Project Euler https://projecteuler.net/ allows, we have published only the possible solutions of the first 100 exercises...
 
 Solutions to project exercises in Assembler, C++, Java, Python or Javascript languages
 
