@@ -1,8 +1,3 @@
-
-
-#include<stdio.h>
-#include<string.h>
-#include<math.h>
 /* Cubic permutations
 
 Problem 62 The cube, 41063625 (3453), can be permuted to produce two other cubes: 56623104 (3843) and 66430125 (4053). 
@@ -10,6 +5,10 @@ In fact, 41063625 is the smallest cube which has exactly three permutations of i
 Find the smallest cube for which exactly five permutations of its digits are cube.
 
 Pergjigje: 127035954683  */
+
+#include<stdio.h>
+#include<string.h>
+#include<math.h>
 
 char a[5360][11],count;
 
