@@ -4,7 +4,7 @@ Diophantine equation
 Problem 66
 Consider quadratic Diophantine equations of the form:
 
-x2 – Dy2 = 1
+x^2 – Dy^2 = 1
 
 For example, when D=13, the minimal solution in x is 6492 – 13×1802 = 1.
 
