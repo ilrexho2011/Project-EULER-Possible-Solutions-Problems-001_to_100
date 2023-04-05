@@ -14,7 +14,7 @@ Pergjigje:  8319823  */
 
 #include <iostream>
 #include <iomanip>
-ubsing namespace std;
+using namespace std;
 
 int cmp(const void* a, const void* b)
 {
