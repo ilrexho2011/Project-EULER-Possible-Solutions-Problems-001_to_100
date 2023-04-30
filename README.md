@@ -1,9 +1,11 @@
 # Project-EULER-Possible-Solutions
+![image](https://user-images.githubusercontent.com/61479363/235342352-156144cd-6711-4640-8aa1-08c9e908ae72.png)
 
 As the official website of Project Euler https://projecteuler.net/ allows, we have published only the possible solutions of the first 100 exercises...
 
-Solutions to project exercises in Assembler, C++, Java, Python or Javascript languages
+Solutions to project exercises in Assembler, C++, Java, Python, Javascript or Mathematica languages
 
+First of all something about Project Euler
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. 
 Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
