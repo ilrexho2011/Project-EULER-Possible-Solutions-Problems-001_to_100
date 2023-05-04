@@ -1,11 +1,11 @@
 Sum square difference
  
-Problem 6
-The sum of the squares of the first ten natural numbers is,
-
-The square of the sum of the first ten natural numbers is,
-
-Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 
-.
-
-Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+Shuma e katroreve te dhjete numrave te pare naturor eshte,
+    1^2 + 2^2 + ... + 10^2 = 385
+Katrori i shumes se dhjete numrave te pare naturor eshte,
+    (1 + 2 + ... + 10)^2 = 552 = 3025
+Nderkohe qe diferenca mes katrorit te shumes dhe shumes se katroreve te dhjete numrave te pare natyror eshte 
+    3025 - 385 = 2640.
+Gjeni diferencen mes katrorit te shumes dhe shumes se katroreve	te 100 numrave te pare natyror.          
+  	
+Pergjigja e sakte eshte Dif = 25164150 
