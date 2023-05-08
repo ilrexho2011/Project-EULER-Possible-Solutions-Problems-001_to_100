@@ -6,14 +6,11 @@ Or, equivalently, find all Pythagorean triplets (a, b, c)  with  a + b + c =  10
 It can easily be seen that for every Pythagorean triplet a ?: 3 and a + b + c is
 even, you might want to prove that  yourself.
 
-
 9.1	The  straightforward approach
 
 The most straightforward approach is to simply loop over a and b and then check whether a2 + b2  = (s − a − b)2.  From the condition a < b < c, we conclude that
 a � (s − 3)I	(s − a)I
 That approach would lead to code along the lines of
-
- 
 
 This algorithm is sufficiently fast for small enough s, but it doesn’t scale well.  If you multiply the value of s by a factor k, the span of each of the two loops   is multiplied by the same factor and since the loops are nested, the number of cases to check is multiplied by k2. So if s is doubled, the programme takes approximately four times as long and increasing the perimeter s by a factor of 10 increases the run time by a factor of approximately  100.
 With a little work, you can find better bounds for the loops, thus considerably speeding the algorithm up, but it will still have the same scaling behaviour.  This
@@ -22,8 +19,6 @@ algorithm is definitely unsuitable for perimeters s   ?: 1 000 000.
 9.2	Using a parametrisation of Pythagorean triplets
 
 A Pythagorean triplet (a, b, c) is by definition primitive if gcd(a, b, c) = 1. Since for Pythagorean triplets one has gcd(a, b) = gcd(b, c) = gcd(c, a), such a triplet
- 
-
 
 is primitive if and only if gcd(a, b) = 1. As was already known to the ancient Greeks, all primitive Pythagorean triplets can be represented  as
 (9.1)	a = m2 − n2,   b = 2 · m · n,   c = m2 + n2,
