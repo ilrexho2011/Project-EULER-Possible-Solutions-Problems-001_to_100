@@ -1,6 +1,5 @@
 Problem 10.  Sum all  primes below N  million
 
-
 10.1    The natural looping algorithm
 
 If you  have  a  reasonably  fast  prime  testing  algorithm,   like the  one  from  the overview for problem  7, you could simply loop through  all promising  candidates (odd  numbers  or numbers  not  divisible by either  two or three  for example)  and sum those that  turn  out to be prime.  The code would then resemble
@@ -22,13 +21,9 @@ slow if you have  to  perform  many  tests.   To  find all primes  up  to  one m
 That  is an awful lot of work, how can we substantially  reduce it?
 Apart  from some rather  advanced new methods, the best answer to that  question is over 2000 years old.  When you want  to find all primes below some limit,  use the sieve of Eratosthenes. When you want to test  just a handful of not too large numbers,  trial division is adequate.   However, suppose you’d want to test  a few hundred numbers between 109 and 1010. Then a mixed strategy is good. First use a sieve to find the primes up to 105, then perform trial division by these primes.
 
-
 10.2     The sieve of Eratosthenes
 
 The basic idea behind this ancient method  is that  instead of looking for divisors d of n, we mark multiples  of d as composites.  Since every composite has a prime divisor,  the  marking  of multpiples  need only be done for primes.   The  classical algorithm  is 
-
-
-
 
 1. Make a list of all numbers from 2 to N .
 
@@ -43,16 +38,12 @@ N , go to 5.
 
 5. The numbers not crossed out are the primes not exceeding N .
 
-
 You only need to start  crossing out multiples at p2, because any smaller multiple of p has a prime divisor less than p and has already been crossed out as√a multiple
 of that.  This is also the reason why we can stop after we’ve reached     N.
 
-
 10.2.1     A first implementation
 
-
 We begin with an implementation close to the description of the algorithm,  which we will improve somewhat after having discussed it.  For the list of numbers,  we use a boolean array  sieve, indicating  which numbers have been crossed out.
-
 
 limit  := 20000√00 
 crosslimit  := b
@@ -70,10 +61,7 @@ for n := 2 to limit
 if not sieve[n]  then sum := sum+n
 end if end for output  sum 
 
-
-
 First,  we initialise the array to false because we have not yet crossed out any num- bers.  In crossing out,  we discriminate  between even and  odd numbers,  slightly deviating  from the  description.   After  all even numbers  > 2 have been crossed out  as multiples  of 2, there  is no point  in crossing them  out  again as multiples of their odd divisors.   So when crossing out  multiples  of odd primes  p, we can proceed in steps of 2p instead  of p, sparing the  even multiples.  As noted  above, all multiples  of p less than  p2  will already  have been crossed out as multiples  of smaller primes, so we need not revisit them.  Also, if n is an odd composite, when the loop reaches n, that  number and its multiples have already been crossed out, so we need not enter the inner loop then.
-
 
 10.2.2   Optimising the sieve
 
