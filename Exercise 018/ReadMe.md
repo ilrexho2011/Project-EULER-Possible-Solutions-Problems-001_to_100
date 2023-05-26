@@ -31,5 +31,5 @@ Find the maximum total from top to bottom of the triangle below:
 
 NOTE: As there are only 16384 routes, it is possible to solve this problem by trying every route. However, Problem 67, is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and requires a clever method! ;o)
 
-Answer:  1074
+Pergjigje:  1074
 Completed on Sat, 4 Mar 2017, 21:55
