@@ -117,3 +117,5 @@ Note that as more and more primefactors get divided out, n gets smaller and smal
 The line:
 if n>1 then sum=sum*(n+1)
 covers the case that one prime factor greater than    n  remains.
+
+Pergjigje: 31626
