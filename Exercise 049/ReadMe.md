@@ -8,4 +8,4 @@ There are no arithmetic sequences made up of three 1-, 2-, or 3-digit primes, ex
 
 What 12-digit number do you form by concatenating the three terms in this sequence?
 
-Answer:  296962999629
+Pergjigje:  296962999629
