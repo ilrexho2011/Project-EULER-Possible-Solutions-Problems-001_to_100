@@ -8,4 +8,4 @@ By replacing the 3rd and 4th digits of 56**3 with the same digit, this 5-digit n
 
 Find the smallest prime which, by replacing part of the number (not necessarily adjacent digits) with the same digit, is part of an eight prime value family.
 
-Answer:  121313
+Pergjigje:  121313
