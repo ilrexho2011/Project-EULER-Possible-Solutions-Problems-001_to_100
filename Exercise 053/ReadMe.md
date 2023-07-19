@@ -23,4 +23,4 @@ It is not until
 How many, not necessarily distinct, values of 
 are greater than one-million?
 
-Answer:  4075
+Pergjigje:  4075
