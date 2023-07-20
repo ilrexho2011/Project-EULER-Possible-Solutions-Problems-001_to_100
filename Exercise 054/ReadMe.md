@@ -53,4 +53,4 @@ The file, poker.txt, contains one-thousand random hands dealt to two players. Ea
 How many hands does Player 1 win?
 
 
-Answer:  376
+Pergjigje:  376
