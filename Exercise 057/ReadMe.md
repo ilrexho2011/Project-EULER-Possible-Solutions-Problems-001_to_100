@@ -6,4 +6,4 @@ It is possible to show that the square root of two can be expressed as an infini
 
 In the first one-thousand expansions, how many fractions contain a numerator with more digits than the denominator?
 
-Pergjigja:  153
+Pergjigje:  153
