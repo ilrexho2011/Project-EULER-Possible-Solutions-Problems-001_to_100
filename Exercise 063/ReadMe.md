@@ -6,4 +6,4 @@ The 5-digit number, 16807=75, is also a fifth power. Similarly, the 9-digit numb
 
 How many n-digit positive integers exist which are also an nth power?
 
-Pergjigje:  49
+Pergjigje :  49
