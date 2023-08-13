@@ -25,4 +25,4 @@ starting number below one million is sixty terms.
 How many chains, with a starting number below one million, contain exactly sixty non-repeating terms?
 
 
-Pergjigje:  402
+Pergjigje :  402
