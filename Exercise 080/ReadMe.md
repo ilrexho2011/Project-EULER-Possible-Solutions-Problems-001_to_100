@@ -8,4 +8,4 @@ The square root of two is 1.41421356237309504880..., and the digital sum of the 
 
 For the first one hundred natural numbers, find the total of the digital sums of the first one hundred decimal digits for all the irrational square roots.
 
-Pergjigje:  40886
+Pergjigje :  40886
