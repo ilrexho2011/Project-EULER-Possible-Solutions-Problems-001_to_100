@@ -11,4 +11,4 @@ in red and bold; the sum is equal to 994.
 Find the minimal path sum from the left column to the right column in matrix.txt 
 (right click and "Save Link/Target As..."), a 31K text file containing an 80 by 80 matrix.
 
-Pergjigje:  260324
+Pergjigje :  260324
