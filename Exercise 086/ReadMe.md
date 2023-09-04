@@ -11,4 +11,4 @@ It can be shown that there are exactly 2060 distinct cuboids, ignoring rotations
 
 Find the least value of M such that the number of solutions first exceeds one million.
 
-Pergjigje:  1818
+Pergjigje :  1818
