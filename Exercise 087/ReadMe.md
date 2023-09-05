@@ -11,4 +11,4 @@ The smallest number expressible as the sum of a prime square, prime cube, and pr
 
 How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?
 
-Pergjigje:  1097343
+Pergjigje :  1097343
