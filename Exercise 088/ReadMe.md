@@ -20,4 +20,4 @@ In fact, as the complete set of minimal product-sum numbers for 2≤k≤12 is {4
 
 What is the sum of all the minimal product-sum numbers for 2≤k≤12000?
 
-Pergjigje:  7587457
+Pergjigje :  7587457
