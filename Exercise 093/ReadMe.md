@@ -18,4 +18,4 @@ Using the set, {1, 2, 3, 4}, it is possible to obtain thirty-one different targe
 Find the set of four distinct digits, a < b < c < d, for which the longest set of consecutive positive integers, 1 to n, can be obtained, giving your answer as a string: abcd.
 
 
-Pergjigje:  1258   */
+Pergjigje :  1258   */
