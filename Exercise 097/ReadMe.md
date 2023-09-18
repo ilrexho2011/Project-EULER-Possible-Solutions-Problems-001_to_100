@@ -9,4 +9,4 @@ However, in 2004 there was found a massive non-Mersenne prime which contains 2,3
 Find the last ten digits of this prime number.
 
 
-Pergjigje:  8739992577
+Pergjigje :  8739992577
