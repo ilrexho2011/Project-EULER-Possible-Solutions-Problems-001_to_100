@@ -11,4 +11,4 @@ What is the largest square number formed by any member of such a pair?
 NOTE: All anagrams formed must be contained in the given text file.
 
 
-Pergjigje:  18769
+Pergjigje :  18769
