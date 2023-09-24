@@ -9,4 +9,4 @@ The next such arrangement, for which there is exactly 50% chance of taking two b
 By finding the first arrangement to contain over 1012 = 1,000,000,000,000 discs in total, determine the number of blue discs that the box would contain.
 
 
-Pergjigje:  756872327473
+Pergjigje :  756872327473
