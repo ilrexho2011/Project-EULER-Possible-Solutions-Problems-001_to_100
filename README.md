@@ -4,7 +4,7 @@
 
 As the official website of Project Euler https://projecteuler.net/ allows, we have published only the possible solutions of the first 100 exercises...
 
-Solutions to project exercises in Assembler, C++, Java, Python, Javascript or Mathematica languages
+Solutions to project exercises in Assembler, C++, Java, Python, Javascript or Mathematica languages.
 
 First of all something about Project Euler
 
