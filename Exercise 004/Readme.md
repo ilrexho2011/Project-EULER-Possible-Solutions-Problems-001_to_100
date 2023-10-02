@@ -6,4 +6,4 @@ The largest palindrome made from the product of two 2-digit numbers is 9009 = 91
 
 Find the largest palindrome made from the product of two 3-digit numbers.
 
-Pergjigje: 906609
+Pergjigje : 906609
