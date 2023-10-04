@@ -8,4 +8,4 @@ Nderkohe qe diferenca mes katrorit te shumes dhe shumes se katroreve te dhjete n
     3025 - 385 = 2640.
 Gjeni diferencen mes katrorit te shumes dhe shumes se katroreve	te 100 numrave te pare natyror.          
   	
-Pergjigja e sakte eshte Dif = 25164150 
+Pergjigje : 25164150 
