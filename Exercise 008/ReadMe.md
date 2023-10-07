@@ -27,4 +27,4 @@ The four adjacent digits in the 1000-digit number that have the greatest product
 Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 
 
-Pergjigje:  23514624000
+Pergjigje :  23514624000
