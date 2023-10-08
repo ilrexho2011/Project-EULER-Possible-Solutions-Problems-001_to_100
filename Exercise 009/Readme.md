@@ -133,3 +133,5 @@ m2 + n2
 + v2,
  
 so T1  = (u2 − v2, 2uv, u2 + v2) is a primitive triplet which is also a multiple of   (a, b, c), hence T1 = (a, b, c).
+
+Pergjigje:
