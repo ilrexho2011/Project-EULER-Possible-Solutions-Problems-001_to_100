@@ -85,3 +85,5 @@ if not sieve[i]  then  sum := sum+(2*i+1)
 end for output  sum
 
 and solves the problem in much less than  a second.
+
+Pergjigje:
