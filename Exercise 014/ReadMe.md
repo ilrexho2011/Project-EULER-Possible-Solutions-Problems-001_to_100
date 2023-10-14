@@ -12,4 +12,4 @@ Which starting number, under one million, produces the longest chain?
 
 NOTE: Once the chain starts the terms are allowed to go above one million.
 
-Pergjigje: 837799
+Pergjigje : 837799
