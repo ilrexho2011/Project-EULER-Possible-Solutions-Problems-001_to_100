@@ -11,6 +11,6 @@ and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
 
 Find the sum of the digits in the number 100!
 
-Pergjigje:  648
+Pergjigje :  648
 
 Completed on Sat, 4 Mar 2017, 22:29
