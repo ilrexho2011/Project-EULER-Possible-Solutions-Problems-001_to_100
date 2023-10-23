@@ -118,4 +118,4 @@ The line:
 if n>1 then sum=sum*(n+1)
 covers the case that one prime factor greater than    n  remains.
 
-Pergjigje: 31626
+Pergjigje : 31626
