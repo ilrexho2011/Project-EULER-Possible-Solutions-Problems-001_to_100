@@ -10,4 +10,4 @@ For example, when the list is sorted into alphabetical order, COLIN, which is wo
 
 What is the total of all the name scores in the file?
 
-Pergjigje:  871198282
+Pergjigje :  871198282
