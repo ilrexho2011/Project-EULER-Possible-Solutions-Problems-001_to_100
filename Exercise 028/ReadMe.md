@@ -16,4 +16,4 @@ It can be verified that the sum of the numbers on the diagonals is 101.
 
 What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?
 
-Pergjigje:  669171001
+Pergjigje :  669171001
