@@ -11,4 +11,4 @@ It can be verified that T285 = P165 = H143 = 40755.
 
 Find the next triangle number that is also pentagonal and hexagonal.
 
-Pergjigje:  1533776805
+Pergjigje :  1533776805
