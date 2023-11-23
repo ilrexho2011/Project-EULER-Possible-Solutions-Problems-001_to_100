@@ -15,4 +15,4 @@ It turns out that the conjecture was false.
 
 What is the smallest odd composite that cannot be written as the sum of a prime and twice a square?
 
-Pergjigje:  5777
+Pergjigje :  5777
